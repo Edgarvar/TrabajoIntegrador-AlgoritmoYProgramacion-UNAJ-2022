@@ -6,7 +6,8 @@ namespace Proyecto4
 	{
 		//atributos
 		private string nombre, apellido;
-		private int dni, codVendedor = 100;
+		private int dni, codVendedor;
+		private static int contadorDeCodigo = 10;
 		
 		//constructor
 		public Empleado(string nom, string ape, int dni)
@@ -14,7 +15,8 @@ namespace Proyecto4
 			nombre = nom;
 			apellido = ape;
 			this.dni = dni;
-			codVendedor = codVendedor + 1;
+			this.codVendedor = contadorDeCodigo;
+			contadorDeCodigo++;
 		}
 		
 		//propiedades
@@ -32,7 +34,7 @@ namespace Proyecto4
 			get { return dni; }
 		}
 		public int CodVendedor {
-			get { return dni; }
+			get { return codVendedor; }
 		}
 	}
 }

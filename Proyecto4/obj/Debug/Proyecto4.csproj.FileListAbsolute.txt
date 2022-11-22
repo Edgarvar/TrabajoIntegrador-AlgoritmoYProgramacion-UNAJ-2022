@@ -1,0 +1,6 @@
+C:\Users\edgar\OneDrive\Documentos\SharpDevelop Projects\TrabajoIntegrador\Proyecto4\bin\Debug\Proyecto4.exe.config
+C:\Users\edgar\OneDrive\Documentos\SharpDevelop Projects\TrabajoIntegrador\Proyecto4\bin\Debug\Proyecto4.exe
+C:\Users\edgar\OneDrive\Documentos\SharpDevelop Projects\TrabajoIntegrador\Proyecto4\bin\Debug\Proyecto4.pdb
+C:\Users\edgar\OneDrive\Documentos\SharpDevelop Projects\TrabajoIntegrador\Proyecto4\obj\Debug\Proyecto4.csprojResolveAssemblyReference.cache
+C:\Users\edgar\OneDrive\Documentos\SharpDevelop Projects\TrabajoIntegrador\Proyecto4\obj\Debug\Proyecto4.exe
+C:\Users\edgar\OneDrive\Documentos\SharpDevelop Projects\TrabajoIntegrador\Proyecto4\obj\Debug\Proyecto4.pdb
